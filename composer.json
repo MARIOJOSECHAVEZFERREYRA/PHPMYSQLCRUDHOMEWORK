@@ -1,0 +1,15 @@
+{
+    "name": "mario/phpmysqlcrudhomework",
+    "autoload": {
+        "psr-4": {
+            "Mario\\Phpmysqlcrudhomework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mario",
+            "email": "mariojosechavezferreyra@gmail.com"
+        }
+    ],
+    "require": {}
+}
